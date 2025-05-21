@@ -1,7 +1,104 @@
+ENG
+Version of python on which the project was written: 3.12
+
+Tutorial:
+The game is entirely written for console.
+Your task will mostly consist of:
+- Selecting actions (write the number of the action you want to perform)
+- Switching between tabs (similar to the first point)
+- All game logic will be calculated by the game itself
+- The only, so far, introduction (will be released in a new update somewhere 24.05.2025) will be related to the mechanics of hunting,
+    where you have to make some choices that will affect you and the animals.
+    (all details will be in Version0.02).
+
+
+
+The main components that have been included in the project are:
+Version0.01 Beta (05/21/2025):
+Variables with different data types
+- Str
+- Int
+- Float
+- Bool
+
+Other data formats
+- Tuples
+- Lists
+- Dictionaries
+- Nested (multidimensional)
+
+Functions
+- Basic work with functions
+- Anonymous functions
+- Recursive functions
+- actual and formal parameters
+- *args **kwargs
+- Closures
+- Decorators
+
+Basic commands
+- print() input() and others.
+- Arithmetic operations
+
+Operations on strings
+- Basic operations
+- Special characters
+- raw-str
+- f-str
+
+Conditional operator
+- Basic operation with conditions
+- and / or; not in / in etc....
+- Nested conditions
+- Multiconditionality
+- Ternary conditional operator
+- Match / case construct
+
+While() and for() loops
+- Basic work with loops
+- break
+- continue
+- else (for while)
+- Nested loops
+
+Exception handling
+- try except finally
+
+Iterators
+- Their basic work in loops + range()
+- Expression generators
+
+Type annotations
+- Type annotations in functions
+- Type annotations at the class level
+
+Import of modules (import / from)
+- Import of own modules
+- Importing various other modules
+
+Working with files
+- Reading (pickle)
+- Saving (pickle)
+
+
+
+RUS
 Версия python, на которой писался проект: 3.12
 
+Обучение:
+Игра полностью написана для консоли.
+Ваша задача в большинстве своем будет заключаться:
+- Выбор действий (написать номер того действия, которое хотите совершить)
+- Переключение между вкладками (аналогично первому пункту)
+- Вся игровая логика будет просчитываться самой игрой
+- Единственное, пока что, введение (выйдет в новом обновлении где-то 24.05.2025) будет связанно в механикой охоты,
+    там вам предстоит совершать некоторые выборы, которые будут влиять на вас и животных
+    (все подробности будут уже в версии Version0.02)
+
+
+
 Основные компоненты, которые были включены в проект:
-Первая Бета-версия (21.05.2025):
+Version0.01 Бета-версия (21.05.2025):
 Переменные с разными типами данных
 - Str
 - Int
